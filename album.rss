@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>GALERIA</title>
+   	<link>.</link>
+        <generator>jAlbum 26.2</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>imi</title>
+            <link>slides/imi.html</link>
+            <pubDate>Tue, 19 Dec 2023 08:45:52 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/imi.jpg" width="381" height="259"/>
+            <media:content type="image/jpeg" url="slides/imi.jpg" width="1443" height="981"/>
+            <guid isPermaLink="false">slides/imi.jpg</guid>
+        </item>
+        <item>
+            <title>12030420_1686597691613144_4430979188659742729_o</title>
+            <link>slides/12030420_1686597691613144_4430979188659742729_o.html</link>
+            <pubDate>Tue, 19 Dec 2023 08:45:52 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12030420_1686597691613144_4430979188659742729_o.jpg" width="389" height="258"/>
+            <media:content type="image/jpeg" url="slides/12030420_1686597691613144_4430979188659742729_o.jpg" width="1506" height="1000"/>
+            <guid isPermaLink="false">slides/12030420_1686597691613144_4430979188659742729_o.jpg</guid>
+        </item>
+        <item>
+            <title>12113380_1689145371358376_1509111035669970005_o</title>
+            <link>slides/12113380_1689145371358376_1509111035669970005_o.html</link>
+            <pubDate>Tue, 19 Dec 2023 08:45:52 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/12113380_1689145371358376_1509111035669970005_o.jpg" width="382" height="259"/>
+            <media:content type="image/jpeg" url="slides/12113380_1689145371358376_1509111035669970005_o.jpg" width="1454" height="987"/>
+            <guid isPermaLink="false">slides/12113380_1689145371358376_1509111035669970005_o.jpg</guid>
+        </item>
+        <item>
+            <title>123140084_1701945066660498_7824802272281160487_n</title>
+            <link>slides/123140084_1701945066660498_7824802272281160487_n.html</link>
+            <pubDate>Tue, 19 Dec 2023 08:45:52 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/123140084_1701945066660498_7824802272281160487_n.jpg" width="324" height="259"/>
+            <media:content type="image/jpeg" url="slides/123140084_1701945066660498_7824802272281160487_n.jpg" width="1252" height="1000"/>
+            <guid isPermaLink="false">slides/123140084_1701945066660498_7824802272281160487_n.jpg</guid>
+        </item>
+        <item>
+            <title>387762635_736376941843691_5380276574873968095_n</title>
+            <link>slides/387762635_736376941843691_5380276574873968095_n.html</link>
+            <pubDate>Tue, 19 Dec 2023 08:45:52 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/387762635_736376941843691_5380276574873968095_n.jpg" width="207" height="259"/>
+            <media:content type="image/jpeg" url="slides/387762635_736376941843691_5380276574873968095_n.jpg" width="768" height="960"/>
+            <guid isPermaLink="false">slides/387762635_736376941843691_5380276574873968095_n.jpg</guid>
+        </item>
+        <item>
+            <title>276070330_1418746478582704_855307425365767201_n</title>
+            <link>slides/276070330_1418746478582704_855307425365767201_n.html</link>
+            <pubDate>Tue, 19 Dec 2023 08:45:52 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/276070330_1418746478582704_855307425365767201_n.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/276070330_1418746478582704_855307425365767201_n.jpg" width="593" height="395"/>
+            <guid isPermaLink="false">slides/276070330_1418746478582704_855307425365767201_n.jpg</guid>
+        </item>
+        <item>
+            <title>276027651_1418746611916024_6830558862105284475_n</title>
+            <link>slides/276027651_1418746611916024_6830558862105284475_n.html</link>
+            <pubDate>Tue, 19 Dec 2023 08:45:52 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/276027651_1418746611916024_6830558862105284475_n.jpg" width="207" height="259"/>
+            <media:content type="image/jpeg" url="slides/276027651_1418746611916024_6830558862105284475_n.jpg" width="480" height="600"/>
+            <guid isPermaLink="false">slides/276027651_1418746611916024_6830558862105284475_n.jpg</guid>
+        </item>
+        <item>
+            <title>325766789_3431556083781854_6637664221287794059_n</title>
+            <link>slides/325766789_3431556083781854_6637664221287794059_n.html</link>
+            <pubDate>Tue, 19 Dec 2023 08:45:52 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/325766789_3431556083781854_6637664221287794059_n.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/325766789_3431556083781854_6637664221287794059_n.jpg" width="960" height="640"/>
+            <guid isPermaLink="false">slides/325766789_3431556083781854_6637664221287794059_n.jpg</guid>
+        </item>
+        <item>
+            <title>165211849_111136261064188_7984460022838685745_n</title>
+            <link>slides/165211849_111136261064188_7984460022838685745_n.html</link>
+            <pubDate>Tue, 19 Dec 2023 08:45:52 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/165211849_111136261064188_7984460022838685745_n.jpg" width="389" height="259"/>
+            <media:content type="image/jpeg" url="slides/165211849_111136261064188_7984460022838685745_n.jpg" width="1500" height="1000"/>
+            <guid isPermaLink="false">slides/165211849_111136261064188_7984460022838685745_n.jpg</guid>
+        </item>
+    </channel>
+</rss>
